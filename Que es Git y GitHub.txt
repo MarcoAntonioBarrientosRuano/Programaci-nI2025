@@ -8,3 +8,55 @@ Una de sus funciones más chéveres es que permite a varias personas trabajar en
 
 ¿Y cómo se conectan?
 Git es lo que usas en tu computadora para manejar el proyecto, y GitHub es donde lo subes para compartirlo o guardarlo en la nube. Es como tener el control de tu código en tu computadora (con Git) y luego usar GitHub para mostrarlo y colaborar con otros.
+
+Preguntas:
+1. ¿Qué es GIT?
+Git es un sistema de control de versiones que permite gestionar los cambios realizados en los archivos de un proyecto. Su principal ventaja es que permite trabajar de forma distribuida, lo que significa que cada colaborador tiene una copia completa del repositorio y puede trabajar de manera independiente. Además, facilita el seguimiento de los cambios y la colaboración entre varios desarrolladores.
+
+2. ¿Cuáles son los comandos más importantes y para qué sirven?
+git init: Inicializa un nuevo repositorio en el directorio actual.
+git clone <url>: Clona un repositorio remoto a tu computadora.
+git add <archivo>: Añade cambios al área de preparación (staging area).
+git commit -m "<mensaje>": Confirma los cambios en el repositorio local con un mensaje.
+git status: Muestra el estado de los archivos en tu repositorio (si están modificados, añadidos, etc.).
+git push: Sube tus cambios al repositorio remoto.
+git pull: Baja los cambios del repositorio remoto a tu copia local.
+git branch: Muestra las ramas existentes o crea una nueva rama.
+git merge <rama>: Combina los cambios de una rama en otra.
+
+3. ¿Cuál es la diferencia entre Git y GitHub?
+Git es un sistema de control de versiones que se usa en tu computadora para gestionar y guardar el historial de cambios de tus proyectos.
+GitHub es una plataforma online que utiliza Git para alojar repositorios de código, compartirlos con otros y colaborar en proyectos. Es un servicio basado en la web que facilita la colaboración, la gestión de proyectos y el trabajo en equipo.
+
+4. Enumere los comandos para subir cambios a un repositorio.
+git add <archivo>: Añadir los archivos modificados al área de preparación.
+git commit -m "<mensaje>": Confirmar los cambios en tu repositorio local.
+git push: Subir los cambios confirmados al repositorio remoto.
+
+5. ¿Qué es una branch?
+Una branch (rama) en Git es una versión paralela de tu proyecto donde puedes realizar cambios sin afectar la rama principal (generalmente llamada main o master). Las ramas te permiten trabajar en diferentes características o funcionalidades de un proyecto sin interferir con el trabajo de otros. Puedes crear, modificar y fusionar ramas según sea necesario.
+
+6. ¿Cuál es la diferencia entre un repositorio local y un repositorio remoto?
+Repositorio local: Es la copia del proyecto que tienes en tu computadora. Solo tú tienes acceso a ella de manera local.
+Repositorio remoto: Es la versión del proyecto que está almacenada en la nube (por ejemplo, en GitHub, GitLab o Bitbucket). Permite compartir el proyecto con otros y facilita la colaboración, ya que varias personas pueden acceder a él desde diferentes ubicaciones.
+
+7. Comandos básicos para:
+Inicializar un repositorio:
+git init
+
+Descargar un repositorio:
+git clone <url-del-repositorio>
+
+Agregar archivos a un repositorio local:
+git add <archivo> (para un archivo específico)
+git add . (para agregar todos los archivos modificados)
+
+Confirmar cambios en un repositorio local:
+git commit -m "<mensaje>"
+
+Subir cambios a un repositorio remoto:
+git push
+
+Revertir cambios en una branch:
+git checkout -- <archivo> (para descartar cambios no confirmados en un archivo específico)
+git reset --hard <commit> (para volver a un commit específico, borrando los cambios no confirmados)
