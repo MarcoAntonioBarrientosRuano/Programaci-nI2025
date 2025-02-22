@@ -1,0 +1,10 @@
+Git:
+Git es como un control remoto para tu código. Imagina que estás trabajando en algo importante y de repente te das cuenta de que cometiste un error. ¡No pasa nada! Git te permite volver atrás y restaurar las versiones anteriores del proyecto. Guarda todos los cambios que haces, y si necesitas ir a una versión anterior, simplemente lo haces con un par de comandos.
+Lo bueno es que no solo te sirve a ti, sino también a tu equipo. Todos pueden trabajar en el proyecto sin pisarse unos a otros, y si alguien hace algo mal, siempre puedes retroceder.
+
+GitHub:
+Ahora bien, GitHub es como el lugar donde guardas ese proyecto, pero con mucho más poder. Es como tu Dropbox, pero específicamente para programadores. Ahí puedes subir tus proyectos, compartirlos con otros, o incluso colaborar con gente de todo el mundo.
+Una de sus funciones más chéveres es que permite a varias personas trabajar en el mismo proyecto sin perder el control. Cada uno puede hacer cambios en su propia copia del código y luego proponer esos cambios para que los demás los revisen. Si todo está bien, se integran al proyecto principal.
+
+¿Y cómo se conectan?
+Git es lo que usas en tu computadora para manejar el proyecto, y GitHub es donde lo subes para compartirlo o guardarlo en la nube. Es como tener el control de tu código en tu computadora (con Git) y luego usar GitHub para mostrarlo y colaborar con otros.
