@@ -1,0 +1,41 @@
+1. ¿Cuáles son las extensiones de programas ejecutables en cada plataforma?
+
+Linux: En sistemas Linux, los programas ejecutables no tienen extensiones específicas y pueden carecer de ellas por completo. 
+
+Windows: En sistemas Windows, los programas ejecutables suelen tener la extensión .exe. 
+
+Mac OS: En macOS, los archivos ejecutables pueden tener diferentes extensiones, siendo .app una de las más comunes. 
+
+2. ¿Qué significa realizar el despliegue de una aplicación?
+
+El despliegue de una aplicación se refiere al proceso de instalar, configurar y hacer que una aplicación esté disponible para su uso en un entorno específico, como un servidor o una máquina de producción. Este proceso incluye la transferencia de archivos, la configuración de bases de datos y la realización de pruebas para asegurar que la aplicación funcione correctamente en el nuevo entorno. 
+
+3. ¿Cuál es la diferencia entre una aplicación de consola y una con interfaz gráfica?
+
+Una aplicación de consola interactúa con el usuario a través de texto en una terminal o línea de comandos, sin elementos gráficos. Por otro lado, una aplicación con interfaz gráfica (GUI) utiliza elementos visuales como ventanas, botones y menús para facilitar la interacción del usuario. Las aplicaciones de consola suelen ser más rápidas y ligeras, mientras que las aplicaciones con GUI ofrecen una experiencia de usuario más intuitiva y accesible. 
+
+4. Explique por qué razón una aplicación para Windows no puede correr en un sistema operativo distinto.
+
+Las aplicaciones diseñadas para Windows están compiladas para funcionar en el sistema operativo Windows, utilizando sus bibliotecas y APIs específicas. Estas aplicaciones dependen de componentes y comportamientos particulares de Windows, lo que impide que se ejecuten en otros sistemas operativos sin modificaciones significativas o sin utilizar herramientas de compatibilidad como emuladores o máquinas virtuales. 
+
+5. Exploración de Laboratorio Virtual
+
+Para la exploración del laboratorio virtual, sigue las instrucciones proporcionadas en el correo electrónico que recibiste. Asegúrate de realizar la prueba de acceso y documentar cualquier hallazgo o dificultad que encuentres durante el proceso. Incluye capturas de pantalla o registros de las actividades realizadas como evidencia de tu utilización del laboratorio virtual.
+
+
+
+Bibliografía:
+
+MSMK University. (2021). ¿Qué es un fichero ejecutable? Recuperado de 
+MSMK.UNIVERSITY
+
+Minery Report S.L. (2021). Fichero ejecutable. Recuperado de 
+MINERYREPORT.COM
+
+Ridaa. (2021). Despliegue automático multiplataforma para aplicaciones de.... Recuperado de 
+RIDAA.UNICEN.EDU.AR
+
+Proyecto Progra2. (2016). Diferencias entre aplicaciones de consola, web, móvil y windows. Recuperado de 
+PROYECTOPROGRA2.BLOGSPOT.COM
+
+Wikipedia. (2021). Anexo:Comparación de formatos de archivos ejecutables. Recuperado de
